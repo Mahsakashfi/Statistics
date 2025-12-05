@@ -1,6 +1,6 @@
-# Iris Data Analysis and Preprocessing
+# Data Analysis and Preprocessing
 
-This project contains a complete statistical and machine-learning-oriented analysis of the Iris dataset.  
+This project contains a complete statistical and machine-learning-oriented analysis of different datasets.  
 The goal is to demonstrate a clean preprocessing workflow, exploratory data analysis, visualization, and preparation for ML modeling.
 
 ---
