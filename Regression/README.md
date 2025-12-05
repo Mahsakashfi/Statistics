@@ -1,25 +1,27 @@
-# Simple Linear Regression – Week 1
-This project is a first step toward learning regression. It uses a small dataset of study hours and exam scores to build and analyze a simple linear regression model.
-
-# **Goal** 
-- Understand how one variable (Hours) affects another (Scores) and learn the basics of fitting and evaluating a regression model.
-# **Steps Covered**
-- Load and clean the dataset
-- Explore the relationship with a scatter plot
-- Fit a simple linear regression model
-- Interpret slope and intercept
-- Make predictions
-- Plot the regression line and residuals
-- Calculate R² manually and with sklearn
-# **Dataset**
-- Columns:
-- Hours: number of hours studied
-- Scores: exam score
-- A clear, mostly linear relationship makes this dataset ideal for beginners.
-# **Files**
-- Week1_Regression.ipynb – main notebook
-- student_scores.csv – data
-# **Results (summary)**
-- More study hours lead to higher predicted scores.
-- Residuals are reasonably random → linear model fits well.
-- R² shows the model explains a large portion of score variation.
+# Regression Learning Path – 6 Weeks
+This repository documents a structured 6-week journey to learn regression from the foundations to modern machine-learning methods. Each week includes a focused topic, a dataset, practical exercises, and a Jupyter notebook.
+# Weekly Overview
+# *Week 1 – Simple Linear Regression*
+Hours vs. Scores dataset
+Scatter plot, regression line, residuals
+Slope, intercept, R²
+# *Week 2 – Multiple Linear Regression*
+Several predictors
+Dummy variables, VIF
+Train–test split and model interpretation
+# *Week 3 – Regression Assumptions & Diagnostics*
+Linearity, normality, homoscedasticity
+Residual plots, Q–Q plots, outliers
+Fixing violations
+# *Week 4 – Logistic Regression*
+Binary outcomes
+Sigmoid function, odds ratios
+Confusion matrix, ROC–AUC
+# *Week 5 – Regularized Regression*
+Ridge, Lasso, Elastic Net
+Overfitting control
+Cross-validation and hyperparameter tuning
+# *Week 6 – ML Regression Models*
+Decision Trees, Random Forest, Gradient Boosting
+Feature importance
+Model comparison (RMSE, MAE, R²)
